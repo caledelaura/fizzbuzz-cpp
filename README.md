@@ -15,4 +15,4 @@ I'm looking For contributions to this project, to demonstrate various ways to fi
 
 
 * [Fizzbuzz-ifs](https://github.com/coston/fizzbuzz-cpp/blob/master/Fizzbuzz-ifs) Basic fizzbuzz with bools and ifs.
-* [Fizzbuzz-bruteforce](https://github.com/coston/fizzbuzz-cpp/blob/master/Fizzbuzz-ifs) Brute forced fizzbuzz using puts, really halfhearted.
+* [Fizzbuzz-bruteforce](https://github.com/coston/fizzbuzz-cpp/blob/master/Fizzbuzz-ifs) Brute forced fizzbuzz using puts, a halfhearted example.
