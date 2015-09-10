@@ -14,5 +14,5 @@ The requirements are:
 I'm looking For contributions to this project, to demonstrate various ways to fizzbuzz in this language. Please name new fizzbuzz files with fizzbuzz+"generaldescription".extention, and add a better description to the README.md below.
 
 
-* [Fizzbuzz-ifs](https://github.com/coston/fizzbuzz-cpp/blob/master/Fizzbuzz-ifs) Basic fizzbuzz with bools and ifs.
-* [Fizzbuzz-bruteforce](https://github.com/coston/fizzbuzz-cpp/blob/master/Fizzbuzz-ifs) Brute forced fizzbuzz using puts, a halfhearted example.
+* [Fizzbuzz-ifs](https://github.com/coston/fizzbuzz-cpp/blob/master/Fizzbuzz-ifs.cpp) Basic fizzbuzz with bools and ifs.
+* [Fizzbuzz-bruteforce](https://github.com/coston/fizzbuzz-cpp/blob/master/fizzbuzz-bruteforce.cpp) Brute forced fizzbuzz using puts, a halfhearted example.
