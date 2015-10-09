@@ -17,3 +17,4 @@ I'm looking For contributions to this project, to demonstrate various ways to fi
 * [Fizzbuzz-bruteforce](https://github.com/coston/fizzbuzz-cpp/blob/master/fizzbuzz-bruteforce.cpp) Brute forced fizzbuzz using puts, a halfhearted example.
 * [Fizzbuzz-boolifs](https://github.com/coston/fizzbuzz-cpp/blob/master/fizzbuzz-boolifs.cpp) Fuzzbuzz using bools and ifs.
 * [Fizzbuzz-switchcase](https://github.com/coston/fizzbuzz-cpp/blob/master/fizzbuzz-switchcase.cpp) Fuzzbuzz using a switch.
+
