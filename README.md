@@ -11,7 +11,7 @@ The requirements are:
 > five print "Buzz". For numbers which are multiples of both three and
 > five print "FizzBuzz".
 
-I'm looking For contributions to this project, to demonstrate various ways to fizzbuzz in this language. Please name new fizzbuzz files with fizzbuzz+"generaldescription".extention, and add a better description to the README.md below.
+I'm looking For contributions to this project, to demonstrate various ways to fizzbuzz in this language. The expected output can be found [here](https://github.com/coston/fizzbuzz-cpp/blob/master/expected-output.txt). Fuzzbuzz using bools and ifs.. Please name new fizzbuzz files with fizzbuzz+"generaldescription".extention, and add a better description to the README.md below.
 
 
 * [Fizzbuzz-bruteforce](https://github.com/coston/fizzbuzz-cpp/blob/master/fizzbuzz-bruteforce.cpp) Brute forced fizzbuzz using puts, a halfhearted example.
